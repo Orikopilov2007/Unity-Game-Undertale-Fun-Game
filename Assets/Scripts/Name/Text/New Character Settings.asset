@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4717f7186ba439148a526e5fd7e45f0f, type: 3}
+  m_Name: New Character Settings
+  m_EditorClassIdentifier: 
+  sansFont: {fileID: 11400000, guid: 8bd6501ca697b5149b868da749e46dfe, type: 2}
+  papyrusFont: {fileID: 11400000, guid: 18beb5a76ae65954daf4bdb364a7388d, type: 2}
+  charaFont: {fileID: 11400000, guid: 7c844992d9093134fa4c50d1d57773a9, type: 2}

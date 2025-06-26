@@ -1,6 +1,6 @@
 # 🎮 Unity Game: Undertale Fun Game
 
-Welcome to **Undertale Fun Game**, a Unity-based fan project inspired by the style and creativity of the Undertale universe. This game Is still in development as a learning and passion project using Unity and C#.
+Welcome to **Undertale Last Choice **, a Unity-based fan project inspired by the style and creativity of the Undertale universe. This game Is still in development as a learning and passion project using Unity and C#.
 
 ---
 
